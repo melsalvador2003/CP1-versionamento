@@ -7,3 +7,4 @@ Construir um repositório público no GitHub, onde o arquivo README.md apresente
 
 - Lista de integrantes:
 Melyssa Santos Salvador - RM564268
+Luana Gomes da Silva - RM563284
