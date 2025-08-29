@@ -6,4 +6,5 @@ Repositório voltado para o primeiro checkpoint da matéria de Computational Thi
 Construir um repositório público no GitHub, onde o arquivo README.md apresente, em linhas consecutivas, o nome e o RM de cada integrante do grupo.
 
 - Lista de integrantes:
+Melyssa Santos Salvador - RM564268
 Luana Gomes da Silva - RM563284
